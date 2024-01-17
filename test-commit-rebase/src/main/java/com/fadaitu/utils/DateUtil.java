@@ -7,7 +7,7 @@ package com.fadaitu.utils;
 public class DateUtil {
 
     public static void main(String[] args) {
-        System.out.println("test commit rebase2");
+        System.out.println("test commit rebase3");
     }
 
 }
