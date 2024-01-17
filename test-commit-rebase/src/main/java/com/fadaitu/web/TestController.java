@@ -7,7 +7,7 @@ package com.fadaitu.web;
 public class TestController {
 
     public static void main(String[] args) {
-        System.out.println("test commit rebase controller1");
+        System.out.println("test commit rebase controller2");
     }
 
 }
